@@ -21,3 +21,24 @@ Al usuario le llegan correos de notificación para saber el avance de su proceso
 La página debe de ser responsive para poderla ver desde el celular.
 
 La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
+
+## Toma de requerimientos:
+* Cliente
+
+1) Crear cuenta nueva en plataforma.
+2) Llenado de formulario.
+3) Proceso de pagos (nuevo formulario).
+4) Solicitar notificaciones vía mail.
+
+
+* Administrador
+
+1) Notificación de nueva demanda
+2) Revisar formularios Word
+3) Confirmar pagos recibidos
+4) Actualizar procesos de demanda
+    - Poder agregar comentarios
+
+A continuación se muestran los requerimientos del cliente en un diagrama de flujo como guía y referencia para la aplicación:
+
+ ![Diagrama de flujo - Abogabot](https://user-images.githubusercontent.com/108701841/195460248-693c8482-38a6-4703-a4d8-bde93e47a3f0.jpg)
