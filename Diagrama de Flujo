@@ -1,6 +1,6 @@
 # Launch-X  / Mission FrontEnd
 
-PRACTICA: ABOGABOT
+## PRACTICA: ABOGABOT
 
 Descripción del caso:
 
@@ -22,7 +22,7 @@ La página debe de ser responsive para poderla ver desde el celular.
 
 La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
-## Toma de requerimientos:
+### Toma de requerimientos:
 * Cliente
 
 1) Crear cuenta nueva en plataforma.
@@ -41,4 +41,4 @@ La preferncia de colores del cliente es azul marino y blanco, pero acepta propue
 
 A continuación se muestran los requerimientos del cliente en un diagrama de flujo como guía y referencia para la aplicación:
 
- ![Diagrama de flujo - Abogabot](https://user-images.githubusercontent.com/108701841/195460248-693c8482-38a6-4703-a4d8-bde93e47a3f0.jpg)
+![Diagrama de flujo - Abogabot](https://user-images.githubusercontent.com/108701841/195460248-693c8482-38a6-4703-a4d8-bde93e47a3f0.jpg)
