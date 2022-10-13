@@ -41,6 +41,4 @@ La preferncia de colores del cliente es azul marino y blanco, pero acepta propue
 
 A continuación se muestran los requerimientos del cliente en un diagrama de flujo como guía y referencia para la aplicación:
 
-![Diagrama de flujo - Abogabot](https://user-images.githubusercontent.com/108701841/195460248-693c8482-38a6-4703-a4d8-bde93e47a3f0.jpg)
-
-
+<a href= "https://github.com/oscararcee/Launch-X/blob/main/Diagrama%20de%20flujo%20-%20Abogabot.jpg">Este Link<a/>
