@@ -8,7 +8,7 @@
 
 #### 3) <a href= "https://github.com/oscararcee/Launch-X/blob/main/Practica-01/Buyer%20Persona.pdf">Buyer Persona<a/>
 
-#### 4) <a href= "">Público Objetivo<a/>
+#### 4) <a href= "https://github.com/oscararcee/Launch-X/blob/main/Practica-01/Publico%20Objetivo.jpg">Público Objetivo<a/>
 
 #### 5) <a href= "">Wireframe UX<a/>
 
